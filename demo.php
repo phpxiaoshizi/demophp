@@ -1,3 +1,5 @@
 <?php
+
 	echo 4;
-	lalalala
+
+	echo 1;echo 44;
